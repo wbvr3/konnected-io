@@ -1,2 +1,2 @@
 # konnected-io
-Konnected Alarm SmartThings 
+Konnected Alarm SmartThings integration
